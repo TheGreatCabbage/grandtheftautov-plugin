@@ -1,0 +1,16 @@
+---
+game: "Grand Theft Auto V"
+api: 1
+steamID: 271590
+uid: "com.thegreatcabbage.grandtheftautov"
+author: "TheGreatCabbage"
+packageName: "grandtheftautov"
+features:
+- "graphics"
+- "saves"
+gameDirectory: "Grand Theft Auto V"
+verificationPaths:
+- "GTA5.exe"
+graphicsConfig: "$!DOCUMENTS!$/Rockstar Games/GTA V/settings.xml"
+keymapConfig: null
+savesFolder: "$!DOCUMENTS!$/Rockstar Games/GTA V/Profiles"
